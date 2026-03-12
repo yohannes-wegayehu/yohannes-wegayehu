@@ -12,9 +12,9 @@
 
 <!-- ===================== PROFILE VIEWS COUNTER ===================== -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yohannesDev93&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/yohannesDev93?label=Followers&style=social" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/yohannesDev93?style=social" alt="GitHub stars" />
+  <img src="https://komarev.com/ghpvc/?username=yohannes-wegayehu&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/yohannes-wegayehu?label=Followers&style=social" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/yohannes-wegayehu?style=social" alt="GitHub stars" />
 </p>
 
 <!-- ===================== CONNECT WITH ME ===================== -->
@@ -190,7 +190,7 @@
       <td width="50%">
         <h3 align="center">Netflix Clone</h3>
         <div align="center">
-          <a href="https://github.com/yohannesDev93/netflix-clone" target="_blank">
+          <a href="https://github.com/yohannes-wegayehu/netflix-clone" target="_blank">
             <img src="https://img.shields.io/badge/-VIEW_REPO-4285F4?style=for-the-badge&logo=github&logoColor=white" />
           </a>
           <p><strong>React, Node.js, MongoDB, TMDB API</strong> - Full-ck streaming platform with user authentication, movie browsing, and watchlist functionality.</p>
@@ -199,7 +199,7 @@
       <td width="50%">
         <h3 align="center">Amazon Clone</h3>
         <div align="center">
-          <a href="https://github.com/yohannesDev93/amazon-clone" target="_blank">
+          <a href="https://github.com/yohannes-wegayehu/amazon-clone" target="_blank">
             <img src="https://img.shields.io/badge/-VIEW_REPO-4285F4?style=for-the-badge&logo=github&logoColor=white" />
           </a>
           <p><strong>Next.js, Stripe, Firebase</strong> - E-commerce platform with cart functionality, payment integration, and order tracking.</p>
@@ -210,7 +210,7 @@
       <td width="50%">
         <h3 align="center">Apple Clone</h3>
         <div align="center">
-          <a href="https://github.com/yohannesDev93/apple-clone" target="_blank">
+          <a href="https://github.com/yohannes-wegayehu/apple-clone" target="_blank">
             <img src="https://img.shields.io/badge/-VIEW_REPO-4285F4?style=for-the-badge&logo=github&logoColor=white" />
           </a>
           <p><strong>React Native, Redux, Node.js</strong> - Cross-platform mobile app with sleek UI similar to Apple Store.</p>
@@ -219,7 +219,7 @@
       <td width="50%">
         <h3 align="center">Food Delivery App</h3>
         <div align="center">
-          <a href="https://github.com/yohannesDev93/food-delivery-app" target="_blank">
+          <a href="https://github.com/yohannes-wegayehu/food-delivery-app" target="_blank">
             <img src="https://img.shields.io/badge/-VIEW_REPO-4285F4?style=for-the-badge&logo=github&logoColor=white" />
           </a>
           <p><strong>React Native, Expo, Firebase</strong> - Real-time food ordering with reurant listings and delivery tracking.</p>
@@ -230,7 +230,7 @@
       <td width="50%">
         <h3 align="center">E-commerce Mobile App</h3>
         <div align="center">
-          <a href="https://github.com/yohannesDev93/ecommerce-mobile-app" target="_blank">
+          <a href="https://github.com/yohannes-wegayehu/ecommerce-mobile-app" target="_blank">
             <img src="https://img.shields.io/badge/-VIEW_REPO-4285F4?style=for-the-badge&logo=github&logoColor=white" />
           </a>
           <p><strong>React Native, Redux, Node.js, MongoDB</strong> - Complete mobile shopping solution with cart and payments.</p>
@@ -239,7 +239,7 @@
       <td width="50%">
         <h3 align="center">Currency Converter</h3>
         <div align="center">
-          <a href="https://github.com/yohannesDev93/currency-converter" target="_blank">
+          <a href="https://github.com/yohannes-wegayehu/currency-converter" target="_blank">
             <img src="https://img.shields.io/badge/-VIEW_REPO-4285F4?style=for-the-badge&logo=github&logoColor=white" />
           </a>
           <p><strong>React, Exchange Rates API</strong> - Live currency conversion with historical charts and rate alerts.</p>
@@ -265,17 +265,17 @@
 <!-- ===================== RECENT BLOG POSTS ===================== -->
 <h2 align="center">📝 Latest Blog Posts</h2>
 <p align="center">
-  <a href="https://dev.to/yohannesDev93/building-a-netflix-clone-with-mern-stack-123">
+  <a href="https://dev.to/yohannes-wegayehu/building-a-netflix-clone-with-mern-stack-123">
     <img src="https://img.shields.io/badge/-Building%20Netflix%20Clone%20with%20MERN-0A0A0A?style=for-the-badge&logo=dev.to" />
   </a>
 </p>
 <p align="center">
-  <a href="https://dev.to/yohannesDev93/react-native-vs-flutter-which-one-to-choose-456">
+  <a href="https://dev.to/yohannes-wegayehu/react-native-vs-flutter-which-one-to-choose-456">
     <img src="https://img.shields.io/badge/-React%20Native%20vs%20Flutter-0A0A0A?style=for-the-badge&logo=dev.to" />
   </a>
 </p>
 <p align="center">
-  <a href="https://dev.to/yohannesDev93/10-nextjs-tips-to-boost-your-productivity-789">
+  <a href="https://dev.to/yohannes-wegayehu/10-nextjs-tips-to-boost-your-productivity-789">
     <img src="https://img.shields.io/badge/-10%20Next.js%20Tips-0A0A0A?style=for-the-badge&logo=dev.to" />
   </a>
 </p>
