@@ -32,7 +32,7 @@
   <a href="https://dev.to/yohannes_wegayehu" target="_blank">
     <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" />
   </a>
-  <a href="mailto:jyohannes974@gmail.com">
+  <a href="mailto:yohanneswegayehu21@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://yohannes-wegayehu.vercel.app" target="_blank">
@@ -103,8 +103,8 @@
       <td width="50%">
         <h3>📫 Contact</h3>
         <p>
-          <a href="mailto:Jyohannes974@gmail.com">
-            <img src="https://img.shields.io/badge/Jyohannes974@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+          <a href="mailto:yohanneswegayehu21@gmail.com">
+            <img src="https://img.shields.io/badge/yohanneswegayehu21@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
           </a>
         </p>
       </td>
@@ -181,73 +181,7 @@
 <!-- ===================== ANIMATED DIVIDER ===================== -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ===================== FEATURED PROJECTS ===================== -->
-<h2 align="center">🌟 Featured Projects</h2>
 
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">Netflix Clone</h3>
-        <div align="center">
-          <a href="https://github.com/yohannes-wegayehu/netflix-clone" target="_blank">
-            <img src="https://img.shields.io/badge/-VIEW_REPO-4285F4?style=for-the-badge&logo=github&logoColor=white" />
-          </a>
-          <p><strong>React, Node.js, MongoDB, TMDB API</strong> - Full-ck streaming platform with user authentication, movie browsing, and watchlist functionality.</p>
-        </div>
-      </td>
-      <td width="50%">
-        <h3 align="center">Amazon Clone</h3>
-        <div align="center">
-          <a href="https://github.com/yohannes-wegayehu/amazon-clone" target="_blank">
-            <img src="https://img.shields.io/badge/-VIEW_REPO-4285F4?style=for-the-badge&logo=github&logoColor=white" />
-          </a>
-          <p><strong>Next.js, Stripe, Firebase</strong> - E-commerce platform with cart functionality, payment integration, and order tracking.</p>
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <h3 align="center">Apple Clone</h3>
-        <div align="center">
-          <a href="https://github.com/yohannes-wegayehu/apple-clone" target="_blank">
-            <img src="https://img.shields.io/badge/-VIEW_REPO-4285F4?style=for-the-badge&logo=github&logoColor=white" />
-          </a>
-          <p><strong>React Native, Redux, Node.js</strong> - Cross-platform mobile app with sleek UI similar to Apple Store.</p>
-        </div>
-      </td>
-      <td width="50%">
-        <h3 align="center">Food Delivery App</h3>
-        <div align="center">
-          <a href="https://github.com/yohannes-wegayehu/food-delivery-app" target="_blank">
-            <img src="https://img.shields.io/badge/-VIEW_REPO-4285F4?style=for-the-badge&logo=github&logoColor=white" />
-          </a>
-          <p><strong>React Native, Expo, Firebase</strong> - Real-time food ordering with reurant listings and delivery tracking.</p>
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <h3 align="center">E-commerce Mobile App</h3>
-        <div align="center">
-          <a href="https://github.com/yohannes-wegayehu/ecommerce-mobile-app" target="_blank">
-            <img src="https://img.shields.io/badge/-VIEW_REPO-4285F4?style=for-the-badge&logo=github&logoColor=white" />
-          </a>
-          <p><strong>React Native, Redux, Node.js, MongoDB</strong> - Complete mobile shopping solution with cart and payments.</p>
-        </div>
-      </td>
-      <td width="50%">
-        <h3 align="center">Currency Converter</h3>
-        <div align="center">
-          <a href="https://github.com/yohannes-wegayehu/currency-converter" target="_blank">
-            <img src="https://img.shields.io/badge/-VIEW_REPO-4285F4?style=for-the-badge&logo=github&logoColor=white" />
-          </a>
-          <p><strong>React, Exchange Rates API</strong> - Live currency conversion with historical charts and rate alerts.</p>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
 
 
 
@@ -261,25 +195,6 @@
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
 </p>
-
-<!-- ===================== RECENT BLOG POSTS ===================== -->
-<h2 align="center">📝 Latest Blog Posts</h2>
-<p align="center">
-  <a href="https://dev.to/yohannes-wegayehu/building-a-netflix-clone-with-mern-stack-123">
-    <img src="https://img.shields.io/badge/-Building%20Netflix%20Clone%20with%20MERN-0A0A0A?style=for-the-badge&logo=dev.to" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://dev.to/yohannes-wegayehu/react-native-vs-flutter-which-one-to-choose-456">
-    <img src="https://img.shields.io/badge/-React%20Native%20vs%20Flutter-0A0A0A?style=for-the-badge&logo=dev.to" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://dev.to/yohannes-wegayehu/10-nextjs-tips-to-boost-your-productivity-789">
-    <img src="https://img.shields.io/badge/-10%20Next.js%20Tips-0A0A0A?style=for-the-badge&logo=dev.to" />
-  </a>
-</p>
-
 
 
 <!-- ===================== ANIMATED FOOTER ===================== -->
