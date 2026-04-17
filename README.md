@@ -20,7 +20,7 @@
 <!-- ===================== CONNECT WITH ME ===================== -->
 <h2 align="center">🌐 Connect With Me</h2>
 <p align="center">
-  <a href="https://linkedin.com/in/yohannes_wegayehu" target="_blank">
+  <a href="https://linkedin.com/in/yohannes-wegayehu" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://twitter.com/yohannes_dev" target="_blank">
