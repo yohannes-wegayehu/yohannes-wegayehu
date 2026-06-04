@@ -95,25 +95,7 @@
   </table>
   
   <br/>
-  
-  <table>
-    <tr>
-      <td width="50%">
-        <h3>📫 Contact</h3>
-        <p>
-          <a href="mailto:yohanneswegayehu21@gmail.com">
-            <img src="https://img.shields.io/badge/yohanneswegayehu21@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-          </a>
-        </p>
-      </td>
-      <td width="50%">
-        <h3>⚡ Fun Fact</h3>
-        <p>
-          <img src="https://img.shields.io/badge/I've_built_3+-_major_app_clones_(Netflix,_Amazon,_Apple)_to_master_my_skills!-FF6F00?style=for-the-badge&logo=netflix&logoColor=white" alt="Fun Fact"/>
-        </p>
-      </td>
-    </tr>
-  </table>
+
 </div>
 
 <br clear="right"/>
