@@ -1,7 +1,7 @@
 <!-- ===================== DYNAMIC HEADER WITH TYPING ANIMATION ===================== -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=500&color=6A5ACD&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Yohannes+Wegayehu;Full-Stack+Developer;MERN+%7C+PERN+%7C+Next.js+Expert;React+Native+Mobile+Developer;3%2B+Years+of+Coding+Experience;21%2B+Projects+Delivered" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=500&color=6A5ACD&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Yohannes+Wegayehu;Full-Stack+Developer;MERN+%7C+PERN+%7C+Next.js+Expert;3%2B+Years+of+Coding+Experience;21%2B+Projects+Delivered" alt="Typing SVG" />
   </a>
 </div>
 
