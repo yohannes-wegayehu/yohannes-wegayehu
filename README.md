@@ -253,7 +253,7 @@ alt="Yohannes Wegayehu GitHub Contribution Graph"
 
 **Available for:**
 
-<img src="https://img.shields.io/badge/Full-Stack_Development-10B981?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Web_Development-10B981?style=for-the-badge" />
 <img src="https://img.shields.io/badge/AI_Integration-8B5CF6?style=for-the-badge" />
 <img src="https://img.shields.io/badge/ERP_Odoo-875A7B?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Freelance_Projects-06B6D4?style=for-the-badge" />
@@ -276,11 +276,33 @@ alt="Yohannes Wegayehu GitHub Contribution Graph"
 
 <br>
 
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- CONTACT -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-**Phone:** +251 951 748 563
-**Email:** [yohanneswegayehu21@gmail.com](mailto:yohanneswegayehu21@gmail.com)
-**Location:** Addis Ababa & Debre Berhan, Ethiopia
+### 📬 Let's Connect
+
+<br>
+
+<a href="tel:+251951748563">
+  <img src="https://img.shields.io/badge/Phone-+251%20951%20748%20563-10B981?style=for-the-badge&logo=phone&logoColor=white&labelColor=0d1117" alt="Phone" />
+</a>
+
+<a href="mailto:yohanneswegayehu21@gmail.com">
+  <img src="https://img.shields.io/badge/Email-yohanneswegayehu21%40gmail.com-10B981?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email" />
+</a>
+
+<a href="https://www.google.com/maps/search/?api=1&query=Addis+Ababa+Ethiopia">
+  <img src="https://img.shields.io/badge/Location-Addis%20Ababa%20%26%20Debre%20Berhan-10B981?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0d1117" alt="Location" />
+</a>
+
+<br><br>
+
+<sub>
+📍 Addis Ababa &amp; Debre Berhan, Ethiopia
+</sub>
 
 </div>
 
