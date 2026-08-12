@@ -126,7 +126,6 @@ graph TD
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- TECHNOLOGY STACK -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
 ### <img src="https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/layers-3.svg" width="26" height="26" alt="Technology Stack" /> Technology Stack
@@ -134,7 +133,7 @@ graph TD
 </div>
 
 ```mermaid
-flowchart TB
+flowchart TD
 
     A["⚡ TECHNOLOGY STACK"]
 
@@ -145,17 +144,12 @@ flowchart TB
     A --> F["🗄️ DATABASES"]
     A --> G["🛠️ DEVOPS & TOOLS"]
 
-    B --> B1["React • Next.js • TypeScript <br/> JavaScript • Tailwind CSS <br/> Framer Motion • HTML5 • CSS3 <br/> Bootstrap"]
-
-    C --> C1["Node.js • Express.js • Python<br/>REST APIs • Axios"]
-
-    D --> D1["OpenAI API • Google Gemini API<br/>Groq API • AI Chatbots<br/>Telegram AI Bots"]
-
-    E --> E1["Odoo ERP • Odoo ORM<br/>Custom Modules • XML • QWeb<br/>Business Process Automation"]
-
-    F --> F1["PostgreSQL • MongoDB • MySQL<br/>Firebase • Prisma ORM"]
-
-    G --> G1["Git • GitHub • Vercel<br/>Netlify • Docker • Figma • Postman"]
+    B --> B1["React • Next.js • TypeScript • JavaScript • Tailwind CSS • Framer Motion • HTML5 • CSS3 • Bootstrap"]
+    C --> C1["Node.js • Express.js • Python • REST APIs • Axios"]
+    D --> D1["OpenAI API • Google Gemini API • Groq API • AI Chatbots • Telegram AI Bots"]
+    E --> E1["Odoo ERP • Odoo ORM • Custom Modules • XML • QWeb • Business Process Automation"]
+    F --> F1["PostgreSQL • MongoDB • MySQL • Firebase • Prisma ORM"]
+    G --> G1["Git • GitHub • Vercel • Netlify • Docker • Figma • Postman"]
 
     style A fill:#064e3b,stroke:#10b981,stroke-width:3px,color:#ffffff,font-weight:bold
 
@@ -173,6 +167,8 @@ flowchart TB
     style F1 fill:#0d1117,stroke:#06b6d4,stroke-width:1px,color:#c9d1d9
     style G1 fill:#0d1117,stroke:#ec4899,stroke-width:1px,color:#c9d1d9
 ```
+
+
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <!-- SERVICES -->
