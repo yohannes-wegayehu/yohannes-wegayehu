@@ -124,164 +124,55 @@ graph TD
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-
 <!-- TECHNOLOGY STACK -->
-
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
 ### <img src="https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/layers-3.svg" width="26" height="26" alt="Technology Stack" /> Technology Stack
 
-<p>
-  Technologies and tools I use to build modern, scalable, and intelligent applications.
-</p>
-
 </div>
 
-<br>
+```mermaid
+flowchart TB
 
-<div align="center">
+    A["⚡ TECHNOLOGY STACK"]
 
-#### 💻 Languages
+    A --> B["🎨 FRONTEND"]
+    A --> C["⚙️ BACKEND"]
+    A --> D["🤖 AI INTEGRATION"]
+    A --> E["🏢 ERP & ENTERPRISE"]
+    A --> F["🗄️ DATABASES"]
+    A --> G["🛠️ DEVOPS & TOOLS"]
 
-<a href="https://www.typescriptlang.org">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript"/>
-</a>&nbsp;&nbsp;
+    B --> B1["React • Next.js • TypeScript <br/> JavaScript • Tailwind CSS <br/> Framer Motion • HTML5 • CSS3 <br/> Bootstrap"]
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript"/>
-</a>&nbsp;&nbsp;
+    C --> C1["Node.js • Express.js • Python<br/>REST APIs • Axios"]
 
-<a href="https://www.python.org">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python"/>
-</a>&nbsp;&nbsp;
+    D --> D1["OpenAI API • Google Gemini API<br/>Groq API • AI Chatbots<br/>Telegram AI Bots"]
 
-<a href="https://www.java.com">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" alt="Java"/>
-</a>
+    E --> E1["Odoo ERP • Odoo ORM<br/>Custom Modules • XML • QWeb<br/>Business Process Automation"]
 
-<br><br>
+    F --> F1["PostgreSQL • MongoDB • MySQL<br/>Firebase • Prisma ORM"]
 
-#### 🎨 Frontend
+    G --> G1["Git • GitHub • Vercel<br/>Netlify • Docker • Figma • Postman"]
 
-<a href="https://react.dev">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React"/>
-</a>&nbsp;&nbsp;
+    style A fill:#064e3b,stroke:#10b981,stroke-width:3px,color:#ffffff,font-weight:bold
 
-<a href="https://nextjs.org">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48" height="48" alt="Next.js"/>
-</a>&nbsp;&nbsp;
+    style B fill:#111827,stroke:#10b981,stroke-width:2px,color:#ffffff
+    style C fill:#111827,stroke:#3b82f6,stroke-width:2px,color:#ffffff
+    style D fill:#111827,stroke:#8b5cf6,stroke-width:2px,color:#ffffff
+    style E fill:#111827,stroke:#f59e0b,stroke-width:2px,color:#ffffff
+    style F fill:#111827,stroke:#06b6d4,stroke-width:2px,color:#ffffff
+    style G fill:#111827,stroke:#ec4899,stroke-width:2px,color:#ffffff
 
-<a href="https://tailwindcss.com">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="48" height="48" alt="Tailwind CSS"/>
-</a>&nbsp;&nbsp;
-
-<a href="https://vite.dev">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="48" height="48" alt="Vite"/>
-</a>&nbsp;&nbsp;
-
-<a href="https://mui.com">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="48" height="48" alt="Material UI"/>
-</a>
-
-<br><br>
-
-#### ⚙️ Backend
-
-<a href="https://nodejs.org">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js"/>
-</a>&nbsp;&nbsp;
-
-<a href="https://expressjs.com">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48" height="48" alt="Express"/>
-</a>&nbsp;&nbsp;
-
-<a href="https://fastapi.tiangolo.com">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="48" height="48" alt="FastAPI"/>
-</a>&nbsp;&nbsp;
-
-<a href="https://spring.io">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="48" height="48" alt="Spring"/>
-</a>
-
-<br><br>
-
-#### 🗄️ Databases
-
-<a href="https://www.postgresql.org">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL"/>
-</a>&nbsp;&nbsp;
-
-<a href="https://www.mongodb.com">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB"/>
-</a>&nbsp;&nbsp;
-
-<a href="https://www.mysql.com">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL"/>
-</a>&nbsp;&nbsp;
-
-<a href="https://firebase.google.com">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" width="48" height="48" alt="Firebase"/>
-</a>
-
-<br><br>
-
-#### 🤖 AI & Data
-
-<a href="https://numpy.org">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy"/>
-</a>&nbsp;&nbsp;
-
-<a href="https://pandas.pydata.org">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas"/>
-</a>&nbsp;&nbsp;
-
-<a href="https://scikit-learn.org">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="48" height="48" alt="Scikit-learn"/>
-</a>
-
-<br><br>
-
-#### 🛠️ Tools & Deployment
-
-<a href="https://git-scm.com">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git"/>
-</a>&nbsp;&nbsp;
-
-<a href="https://github.com">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" alt="GitHub"/>
-</a>&nbsp;&nbsp;
-
-<a href="https://www.docker.com">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker"/>
-</a>&nbsp;&nbsp;
-
-<a href="https://vercel.com">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="48" height="48" alt="Vercel"/>
-</a>&nbsp;&nbsp;
-
-<a href="https://www.postman.com">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="48" height="48" alt="Postman"/>
-</a>&nbsp;&nbsp;
-
-<a href="https://www.figma.com">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="48" height="48" alt="Figma"/>
-</a>
-
-<br><br>
-
-#### 🚀 Specialized
-
-<img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white" alt="Odoo"/>
-<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma"/>
-<img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo"/>
-<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
-
-</div>
-
----
-
+    style B1 fill:#0d1117,stroke:#10b981,stroke-width:1px,color:#c9d1d9
+    style C1 fill:#0d1117,stroke:#3b82f6,stroke-width:1px,color:#c9d1d9
+    style D1 fill:#0d1117,stroke:#8b5cf6,stroke-width:1px,color:#c9d1d9
+    style E1 fill:#0d1117,stroke:#f59e0b,stroke-width:1px,color:#c9d1d9
+    style F1 fill:#0d1117,stroke:#06b6d4,stroke-width:1px,color:#c9d1d9
+    style G1 fill:#0d1117,stroke:#ec4899,stroke-width:1px,color:#c9d1d9
+```
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <!-- SERVICES -->
