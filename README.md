@@ -4,7 +4,7 @@
 <!-- HERO SECTION -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1a,25:064e3b,50:10b981,75:064e3b,100:0a0f1a&height=280&section=header&text=&fontSize=1&fontAlignY=50&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1a,25:064e3b,50:10b981,75:064e3b,100:0a0f1a&height=150&section=header&text=&fontSize=1&fontAlignY=50&animation=fadeIn" width="100%"/>
 
 <!-- NAME -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=YOHANNES+WEGAYEHU+DEMISE" alt="Name" />
@@ -28,7 +28,7 @@
 <img src="https://komarev.com/ghpvc/?username=yohannes-wegayehu&label=PROFILE+VIEWS&color=10b981&style=for-the-badge&labelColor=0d1117" alt="Profile Views" />
 <img src="https://img.shields.io/github/followers/yohannes-wegayehu?label=FOLLOWERS&color=10b981&style=for-the-badge&labelColor=0d1117" alt="Followers" />
 <img src="https://img.shields.io/github/stars/yohannes-wegayehu?label=STARS&color=eab308&style=for-the-badge&labelColor=0d1117" alt="Stars" />
-<img src="https://img.shields.io/badge/EXPERIENCE-3%2B+YEARS-10b981?style=for-the-badge&labelColor=0d1117" alt="Experience" />
+<img src="https://img.shields.io/badge/EXPERIENCE-3%2BYEARS-10b981?style=for-the-badge&labelColor=0d1117" alt="Experience" />
 
 </div>
 
@@ -110,7 +110,7 @@ const yohannes = {
 
 ```mermaid
 graph TD
-    A[Software Engineering] --> D[Full-Stack Developer]
+    A[Software Engineering] --> D[Software Developer]
     B[AI Integration] --> D
     C[ERP / Odoo] --> D
     D --> E[Building Modern Web Applications & AI Solutions]
@@ -121,72 +121,6 @@ graph TD
     style D fill:#064e3b,stroke:#10b981,color:#ffffff
     style E fill:#312e81,stroke:#8b5cf6,color:#ffffff
 ```
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- AI INTEGRATION SECTION -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openai/openai-original.svg" width="28" height="28" /> AI Integration
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,50:312e81,100:7c3aed&height=80&text=AI+INTEGRATION&fontColor=ffffff&fontSize=28&animation=fadeIn" width="100%" />
-
-</div>
-
-<br>
-
-<table>
-<tr>
-<td width="33%" valign="top" align="center">
-
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" /><br><br>
-
-**Portfolio AI Chatbot**
-
-AI assistant integrated into portfolio. Answers questions about skills, projects, experience.
-
-**Tech:** Gemini API, Next.js, TypeScript
-
-[![Try It](https://img.shields.io/badge/Try_It-10B981?style=for-the-badge)](https://yohanneswegayehu.vercel.app)
-
-</td>
-<td width="34%" valign="top" align="center">
-
-<img src="https://img.shields.io/badge/Groq-FF6B00?style=for-the-badge&logoColor=white" /><br><br>
-
-**Telegram AI Bot**
-
-AI-powered Telegram bot with inline keyboards, typing indicators, AI responses.
-
-**Tech:** Groq API, Node.js, Telegram Bot API
-
-[![Chat Bot](https://img.shields.io/badge/Chat_Bot-0088CC?style=for-the-badge)](https://t.me/yohannes_tech_bot)
-
-</td>
-<td width="33%" valign="top" align="center">
-
-<img src="https://img.shields.io/badge/Google_Gemini-8E75FF?style=for-the-badge&logo=google&logoColor=white" /><br><br>
-
-**AI API Integrations**
-
-Practical integration of OpenAI, Gemini, and Groq into production applications.
-
-**Tech:** OpenAI, Gemini, Groq APIs
-
-[![Projects](https://img.shields.io/badge/See_Projects-8B5CF6?style=for-the-badge)](https://github.com/yohannes-wegayehu?tab=repositories)
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-**My AI Focus:** I integrate AI capabilities into real software products — chatbots, assistants, intelligent features — rather than doing AI research. Every integration is practical, production-ready, and solves real user problems.
 
 </div>
 
