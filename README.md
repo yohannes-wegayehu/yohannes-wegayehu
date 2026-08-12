@@ -77,58 +77,13 @@
 ```typescript
 const yohannes = {
   name: "Yohannes Wegayehu Demise",
-  title: "Software Developer & AI Integration Specialist",
-  experience: "3+ years of practical software development",
-
-  location: [
-    "Addis Ababa, Ethiopia",
-    "Debre Berhan, Ethiopia"
-  ],
-
+  title: "Full-Stack Developer & AI Integration Specialist",
+  experience: "3+ years in software development",
+  location: ["Addis Ababa, Ethiopia", "Debre Berhan, Ethiopia"],
   education: "Computer Science @ Debre Berhan University",
-
-  currentFocus: {
-    fullStack:
-      "Building modern web applications with React, Next.js, Node.js",
-
-    aiIntegration:
-      "Integrating AI APIs into real-world applications",
-
-    erp:
-      "Developing enterprise solutions with Odoo ERP"
-  },
-
-  whatIDo: [
-    "Full-stack web applications",
-    "AI-powered applications",
-    "Enterprise ERP solutions",
-    "Real-time applications",
-    "Telegram AI Bots"
-  ],
-
-  techStack: [
-    "React",
-    "Next.js",
-    "Node.js",
-    "TypeScript",
-    "PostgreSQL",
-    "MongoDB",
-    "Python",
-    "Odoo"
-  ],
-
-  aiStack: [
-    "OpenAI",
-    "Google Gemini",
-    "Groq"
-  ],
-
-  available: true,
-
-  contact: {
-    email: "yohanneswegayehu21@gmail.com",
-    phone: "+251 951 748 563"
-  }
+  currentFocus: "Building AI-powered web applications & ERP systems",
+  askMeAbout: ["React", "Next.js", "Node.js", "Python", "Odoo ERP", "AI Integration"],
+  funFact: "I turn complex problems into elegant solutions"
 };
 ```
 
@@ -335,119 +290,41 @@ graph TD
 
 <div align="center">
 
-### <img src="https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/code-2.svg" width="26" height="26" alt="Services" /> Services
-
-<p>
-  Turning ideas into scalable applications, intelligent systems, and business solutions.
-</p>
+### <img src="https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/briefcase-business.svg" width="26" height="26" alt="Services" /> Services
 
 </div>
-
-<br>
-
-<div >
-
-```python
-class YohannesServices:
-
-    def web_development(self):
-        return {
-            "frontend": [
-                "React",
-                "Next.js",
-                "TypeScript",
-                "Tailwind CSS"
-            ],
-            "backend": [
-                "Node.js",
-                "Express",
-                "REST APIs"
-            ],
-            "database": [
-                "PostgreSQL",
-                "MongoDB",
-                "Firebase"
-            ],
-            "solutions": [
-                "Responsive Web Applications",
-                "Authentication & Authorization",
-                "Real-time Applications",
-                "API Integration"
-            ]
-        }
-
-    def ai_integration(self):
-        return {
-            "ai_platforms": [
-                "OpenAI",
-                "Google Gemini",
-                "Groq"
-            ],
-            "solutions": [
-                "AI Chatbots",
-                "AI Assistants",
-                "AI-Powered Applications",
-                "Telegram AI Bots",
-                "AI Workflow Automation"
-            ]
-        }
-
-    def erp_development(self):
-        return {
-            "platform": "Odoo ERP",
-            "solutions": [
-                "Custom Odoo Modules",
-                "ERP Customization",
-                "Business Workflow Automation",
-                "QWeb Development",
-                "Procurement & Tender Systems"
-            ]
-        }
-
-    def cloud_deployment(self):
-        return {
-            "platforms": [
-                "Vercel",
-                "Docker"
-            ],
-            "services": [
-                "Production Deployment",
-                "Application Configuration",
-                "Git & GitHub Workflows",
-                "Hosting Support"
-            ]
-        }
-
-
-developer = YohannesServices()
-
-developer.web_development()
-# → Modern Web Applications & Backend Systems
-
-developer.ai_integration()
-# → Intelligent AI-Powered Solutions
-
-developer.erp_development()
-# → Enterprise ERP & Business Solutions
-
-developer.cloud_deployment()
-# → Deployment & Production Infrastructure
-```
-
-</div>
-
-<br>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/WEB_DEVELOPMENT-10B981?style=for-the-badge&logo=react&logoColor=white" />
-<img src="https://img.shields.io/badge/AI_INTEGRATION-8B5CF6?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/ERP_ODOO-875A7B?style=for-the-badge&logo=odoo&logoColor=white" />
-<img src="https://img.shields.io/badge/CLOUD_DEPLOYMENT-06B6D4?style=for-the-badge&logo=docker&logoColor=white" />
+```mermaid
+flowchart TD
+    A["🚀 SERVICES"]
+
+    A --> B["🌐 Web <br/> Development"]
+    A --> C["🤖 AI <br/> Integration"]
+    A --> D["🏢 ERP & Odoo<br/>Development"]
+    A --> E["☁️ Cloud &<br/>Deployment"]
+
+    style A fill:#064e3b,stroke:#10b981,stroke-width:3px,color:#ffffff,font-weight:bold
+
+    style B fill:#111827,stroke:#10b981,stroke-width:2px,color:#ffffff
+    style C fill:#111827,stroke:#8b5cf6,stroke-width:2px,color:#ffffff
+    style D fill:#111827,stroke:#f59e0b,stroke-width:2px,color:#ffffff
+    style E fill:#111827,stroke:#06b6d4,stroke-width:2px,color:#ffffff
+
+    linkStyle 0 stroke:#10b981,stroke-width:2px
+    linkStyle 1 stroke:#8b5cf6,stroke-width:2px
+    linkStyle 2 stroke:#f59e0b,stroke-width:2px
+    linkStyle 3 stroke:#06b6d4,stroke-width:2px
+```
+<br>
+
+<img src="https://img.shields.io/badge/WEB_DEVELOPMENT-10B981?style=for-the-badge&logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/AI_INTEGRATION-8B5CF6?style=for-the-badge&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/ERP_ODOO-875A7B?style=for-the-badge&logo=odoo&logoColor=white" /> <img src="https://img.shields.io/badge/CLOUD_DEPLOYMENT-06B6D4?style=for-the-badge&logo=docker&logoColor=white" />
 
 </div>
 
----
+
+
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
