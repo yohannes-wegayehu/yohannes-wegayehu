@@ -1,161 +1,324 @@
 <div align="center">
 
-<!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:10b981,100:059669&height=220&section=header&text=YOHANNES%20WEGAYEHU%20DEMISE&fontSize=30&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Developer%20%26%20AI%20Integration%20Specialist&descSize=14&descAlignY=55&animation=fadeIn" width="100%"/>
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- HERO SECTION -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<!-- TYPING SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Full-Stack+Developer+%26+AI+Specialist;React+%7C+Next.js+%7C+Node.js+%7C+Python;AI+Integration+%7C+Odoo+ERP;Building+Scalable+Web+Applications)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1a,25:064e3b,50:10b981,75:064e3b,100:0a0f1a&height=280&section=header&text=&fontSize=1&fontAlignY=50&animation=fadeIn" width="100%"/>
+
+<!-- NAME -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=YOHANNES+WEGAYEHU+DEMISE" alt="Name" />
+
+<!-- TYPING ANIMATION - TYPE & DELETE -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Hi,+I+am+Yohannes+Wegayehu;Software+Developer+%26+AI+Integration+Specialist;Building+Modern+Web+Applications+%26+AI+Solutions" alt="Typing" />
+
+<!-- DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="2" />
 
 </div>
 
 ---
 
-## About Me
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- STATS ROW -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=yohannes-wegayehu&label=PROFILE+VIEWS&color=10b981&style=for-the-badge&labelColor=0d1117" alt="Profile Views" />
+<img src="https://img.shields.io/github/followers/yohannes-wegayehu?label=FOLLOWERS&color=10b981&style=for-the-badge&labelColor=0d1117" alt="Followers" />
+<img src="https://img.shields.io/github/stars/yohannes-wegayehu?label=STARS&color=eab308&style=for-the-badge&labelColor=0d1117" alt="Stars" />
+<img src="https://img.shields.io/badge/EXPERIENCE-3%2B+YEARS-10b981?style=for-the-badge&labelColor=0d1117" alt="Experience" />
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- SOCIAL LINKS -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-10B981?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117)](https://yohanneswegayehu.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/yohannes-wegayehu)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/yohannes-wegayehu)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0d1117)](https://x.com/yohannes_dev)
+[![Telegram](https://img.shields.io/badge/AI_Bot-0088CC?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0d1117)](https://t.me/yohannes_tech_bot)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:yohanneswegayehu21@gmail.com)
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ABOUT ME -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/person/person-original.svg" width="28" height="28" /> About Me
+
+</div>
+
+<div >
 
 ```typescript
 const yohannes = {
   name: "Yohannes Wegayehu Demise",
-  title: "Full-Stack Developer & AI Integration Specialist",
-  experience: "3+ years",
+  title: "Software Developer & AI Integration Specialist",
+  experience: "3+ years of practical software development",
   location: ["Addis Ababa, Ethiopia", "Debre Berhan, Ethiopia"],
   education: "Computer Science @ Debre Berhan University",
-  currentFocus: "Building AI-powered web applications & ERP systems",
-  askMeAbout: ["React", "Next.js", "Node.js", "Python", "Odoo ERP", "AI Integration"],
-  funFact: "I turn complex problems into elegant solutions"
+  currentFocus: {
+    fullStack: "Building modern web applications with React, Next.js, Node.js",
+    aiIntegration: "Integrating AI APIs into real-world applications",
+    erp: "Developing enterprise solutions with Odoo ERP"
+  },
+  whatIDo: [
+    "Full-stack web applications",
+    "AI-powered applications",
+    "Enterprise ERP solutions",
+    "Real-time applications",
+    "Telegram AI Bots"
+  ],
+  techStack: ["React", "Next.js", "Node.js", "TypeScript", "PostgreSQL", "MongoDB", "Python", "Odoo"],
+  aiStack: ["OpenAI", "Google Gemini", "Groq"],
+  available: true,
+  contact: {
+    email: "yohanneswegayehu21@gmail.com",
+    phone: "+251 951 748 563"
+  }
 };
 ```
 
----
-
-## Quick Links
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-10B981?style=for-the-badge&logo=vercel&logoColor=white)](https://yohanneswegayehu.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yohannes-wegayehu)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yohannes-wegayehu)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/yohannes_dev)
-[![Telegram](https://img.shields.io/bot/8971656612-AAGKWMBD3DO4nk5Q2pa54o7A0ebKw_fM6lU-0088CC?style=for-the-badge&logo=telegram&logoColor=white&label=Chat%20With%20AI)](https://t.me/yohannes_tech_bot)
+</div>
 
 ---
 
-## GitHub Stats
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- PROFESSIONAL POSITIONING -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<!-- STATS CARDS -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yohannes-wegayehu&show_icons=true&theme=tokyonight&bg_color=0d1117&hide_border=true&title_color=10b981&icon_color=10b981&text_color=c9d1d9&ring_color=10b981&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yohannes-wegayehu&layout=compact&theme=tokyonight&bg_color=0d1117&hide_border=true&title_color=10b981&text_color=c9d1d9&langs_count=8" />
+### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" width="28" height="28" /> Professional Positioning
 
-<!-- STREAK STATS -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yohannes-wegayehu&theme=tokyonight&background=0d1117&hide_border=true&ring=10b981&fire=10b981&currStreakLabel=10b981&sideLabels=c9d1d9" width="70%" />
+</div>
+
+<div align="center">
+
+```mermaid
+graph TD
+    A[Software Engineering] --> D[Full-Stack Developer]
+    B[AI Integration] --> D
+    C[ERP / Odoo] --> D
+    D --> E[Building Modern Web Applications & AI Solutions]
+
+    style A fill:#111827,stroke:#10b981,color:#ffffff
+    style B fill:#111827,stroke:#8b5cf6,color:#ffffff
+    style C fill:#111827,stroke:#f59e0b,color:#ffffff
+    style D fill:#064e3b,stroke:#10b981,color:#ffffff
+    style E fill:#312e81,stroke:#8b5cf6,color:#ffffff
+```
 
 </div>
 
 ---
 
-## Tech Stack
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- AI INTEGRATION SECTION -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<!-- FRONTEND -->
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openai/openai-original.svg" width="28" height="28" /> AI Integration
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,50:312e81,100:7c3aed&height=80&text=AI+INTEGRATION&fontColor=ffffff&fontSize=28&animation=fadeIn" width="100%" />
+
+</div>
+
+<br>
+
+<table>
+<tr>
+<td width="33%" valign="top" align="center">
+
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" /><br><br>
+
+**Portfolio AI Chatbot**
+
+AI assistant integrated into portfolio. Answers questions about skills, projects, experience.
+
+**Tech:** Gemini API, Next.js, TypeScript
+
+[![Try It](https://img.shields.io/badge/Try_It-10B981?style=for-the-badge)](https://yohanneswegayehu.vercel.app)
+
+</td>
+<td width="34%" valign="top" align="center">
+
+<img src="https://img.shields.io/badge/Groq-FF6B00?style=for-the-badge&logoColor=white" /><br><br>
+
+**Telegram AI Bot**
+
+AI-powered Telegram bot with inline keyboards, typing indicators, AI responses.
+
+**Tech:** Groq API, Node.js, Telegram Bot API
+
+[![Chat Bot](https://img.shields.io/badge/Chat_Bot-0088CC?style=for-the-badge)](https://t.me/yohannes_tech_bot)
+
+</td>
+<td width="33%" valign="top" align="center">
+
+<img src="https://img.shields.io/badge/Google_Gemini-8E75FF?style=for-the-badge&logo=google&logoColor=white" /><br><br>
+
+**AI API Integrations**
+
+Practical integration of OpenAI, Gemini, and Groq into production applications.
+
+**Tech:** OpenAI, Gemini, Groq APIs
+
+[![Projects](https://img.shields.io/badge/See_Projects-8B5CF6?style=for-the-badge)](https://github.com/yohannes-wegayehu?tab=repositories)
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+**My AI Focus:** I integrate AI capabilities into real software products — chatbots, assistants, intelligent features — rather than doing AI research. Every integration is practical, production-ready, and solves real user problems.
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- TECHNOLOGY STACK -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="28" height="28" /> Technology Stack
+
+</div>
+
+<table>
+<tr>
+<td width="25%" align="center" valign="top">
+
+**FRONTEND**
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" /><br>React
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="45" height="45" /><br>Next.js
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" height="45" /><br>TypeScript
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" /><br>JavaScript
+
+</td>
+<td width="25%" align="center" valign="top">
+
+**BACKEND**
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45" /><br>Node.js
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45" height="45" /><br>Express
+
+<img src="https://cdn.jsdelivr.net/gh/devicon/icons/python/python-original.svg" width="45" height="45" /><br>Python
+
+</td>
+<td width="25%" align="center" valign="top">
+
+**DATABASE**
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" height="45" /><br>PostgreSQL
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" height="45" /><br>MongoDB
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="45" height="45" /><br>Firebase
+
+</td>
+<td width="25%" align="center" valign="top">
+
+**TOOLS**
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" /><br>Git
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45" /><br>Docker
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45" height="45" /><br>Figma
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Odoo-875A7B?style=for-the-badge&logo=odoo&logoColor=white" />
 <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-
-<!-- BACKEND -->
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/REST_APIs-FF6B6B?style=for-the-badge&logo=fastapi&logoColor=white" />
-
-<!-- DATABASES -->
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 <img src="https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white" />
 <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
 
-<!-- AI & ERP -->
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Google_Gemini-8E75FF?style=for-the-badge&logo=google&logoColor=white" />
-<img src="https://img.shields.io/badge/Groq-FF6B00?style=for-the-badge&logo=datastax&logoColor=white" />
-<img src="https://img.shields.io/badge/Odoo-875A7B?style=for-the-badge&logo=odoo&logoColor=white" />
-
-<!-- TOOLS -->
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-
 </div>
 
 ---
 
-## Featured Projects
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- SERVICES -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/buffer/buffer-original.svg" width="28" height="28" /> Services
+
+</div>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### AfriGebeya
-**Full-Stack E-Commerce Platform**
-<br>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-
-Full-stack e-commerce with authentication, product management, shopping cart, and payment integration.
-
-[![Live Demo](https://img.shields.io/badge/Live_Demo-10B981?style=for-the-badge)](https://afrigebeya.vercel.app)
+**Full-Stack Development**
+- React & Next.js Applications
+- Node.js & Express Backend
+- REST APIs & Database Design
+- Authentication & Authorization
+- Responsive Web Applications
 
 </td>
 <td width="50%" valign="top">
 
-### SocialNook
-**Real-Time Social Media Platform**
-<br>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white" />
-
-Real-time social media with posts, likes, comments, chat, and Socket.io integration.
-
-[![Live Demo](https://img.shields.io/badge/Live_Demo-10B981?style=for-the-badge)](https://socialnook.vercel.app)
+**AI Integration**
+- AI Chatbot Development
+- AI Assistant Integration
+- OpenAI / Gemini / Groq APIs
+- Telegram AI Bots
+- AI-Powered Web Applications
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### SprintTask
-**Project Management System**
-<br>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-
-Project management with task tracking, priorities, and role-based access control.
-
-[![Live Demo](https://img.shields.io/badge/Live_Demo-10B981?style=for-the-badge)](https://sprinttask.vercel.app)
+**ERP / Odoo Development**
+- Custom Odoo Modules
+- ERP Customization
+- Business Workflow Automation
+- QWeb Development
+- Procurement & Tender Systems
 
 </td>
 <td width="50%" valign="top">
 
-### Professional Portfolio
-**Next.js AI-Powered Portfolio**
-<br>
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" />
-
-Modern portfolio with AI chatbot, animations, and responsive design.
-
-[![Live Demo](https://img.shields.io/badge/Live_Demo-10B981?style=for-the-badge)](https://yohanneswegayehu.vercel.app)
+**Cloud & Deployment**
+- Vercel Deployment
+- Git / GitHub Workflows
+- Docker Development
+- Application Configuration
+- Hosting Support
 
 </td>
 </tr>
@@ -163,19 +326,22 @@ Modern portfolio with AI chatbot, animations, and responsive design.
 
 ---
 
-## GitHub Trophies
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- GITHUB ACTIVITY -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=yohannes-wegayehu&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&bg_color=0d1117&ring=10b981&title_color=10b981)](https://github.com/ryo-ma/github-profile-trophy)
+### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="28" height="28" /> GitHub Activity
 
 </div>
 
----
-
-## Contribution Graph
-
 <div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yohannes-wegayehu&show_icons=true&theme=tokyonight&bg_color=0d1117&hide_border=true&title_color=10b981&icon_color=10b981&text_color=c9d1d9&ring_color=10b981&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yohannes-wegayehu&layout=compact&theme=tokyonight&bg_color=0d1117&hide_border=true&title_color=10b981&text_color=c9d1d9&langs_count=8" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yohannes-wegayehu&theme=tokyonight&background=0d1117&hide_border=true&ring=10b981&fire=10b981&currStreakLabel=10b981&sideLabels=c9d1d9" width="70%" />
 
 ![yohannes-wegayehu's github activity](https://github-readme-activity-graph.vercel.app/graph?username=yohannes-wegayehu&bg_color=0d1117&color=10b981&line=10b981&point=ffffff&area=true&area_color=10b981&hide_border=true)
 
@@ -183,44 +349,29 @@ Modern portfolio with AI chatbot, animations, and responsive design.
 
 ---
 
-## Snake Animation
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- LET'S CONNECT -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/yohannes-wegayehu/yohannes-wegayehu/output/github-contribution-grid-snake-dark.svg)
+### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="28" height="28" /> Let's Build Something Meaningful
 
 </div>
-
----
-
-## Professional Positioning
 
 <div align="center">
 
-```mermaid
-graph LR
-    A[Software Engineering] --> D[Full-Stack Developer]
-    B[AI Integration] --> D
-    C[ERP Development] --> D
-    D --> E[Building Scalable Web Applications]
-    style D fill:#10b981,stroke:#059669,color:#fff
-    style E fill:#064e3b,stroke:#10b981,color:#fff
-```
+**Available for:**
+
+<img src="https://img.shields.io/badge/Full-Stack_Development-10B981?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AI_Integration-8B5CF6?style=for-the-badge" />
+<img src="https://img.shields.io/badge/ERP_Odoo-875A7B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Freelance_Projects-06B6D4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Collaborations-F59E0B?style=for-the-badge" />
 
 </div>
 
----
-
-## Currently Working On
-
-- Building AI-powered web applications with **Gemini** and **Groq** APIs
-- Developing **Odoo ERP** custom modules and enterprise solutions
-- Creating **Telegram AI Bots** for business automation
-- Contributing to **open-source** projects
-
----
-
-## Let's Connect
+<br>
 
 <div align="center">
 
@@ -229,7 +380,17 @@ graph LR
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yohannes-wegayehu)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yohannes-wegayehu)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/yohannes_dev)
-[![Telegram](https://img.shields.io/bot/8971656612-AAGKWMBD3DO4nk5Q2pa54o7A0ebKw_fM6lU-0088CC?style=for-the-badge&logo=telegram&logoColor=white&label=AI%20Bot)](https://t.me/yohannes_tech_bot)
+[![Telegram](https://img.shields.io/badge/Telegram_Bot-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yohannes_tech_bot)
+
+</div>
+
+<br>
+
+<div align="center">
+
+**Phone:** +251 951 748 563
+**Email:** yohanneswegayehu21@gmail.com
+**Location:** Addis Ababa & Debre Berhan, Ethiopia
 
 </div>
 
@@ -237,7 +398,6 @@ graph LR
 
 <div align="center">
 
-<!-- FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:10b981,100:059669&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1a,25:064e3b,50:10b981,75:064e3b,100:0a0f1a&height=120&section=footer" width="100%"/>
 
 </div>
