@@ -14,7 +14,7 @@
 
 <!-- SINGLE-LINE TYPING / DELETE ANIMATION -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1200&color=10B981&center=true&vCenter=true&repeat=true&width=850&height=40&lines=Software+Developer+%26+AI+Integration+Specialist;Building+Modern+Web+Applications;Building+AI-Powered+Solutions;Enterprise+ERP+%26+Odoo+Development" alt="Software Developer and AI Integration Specialist" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1200&color=10B981&center=true&vCenter=true&repeat=true&width=850&height=40&lines=Software+Developer+%26+AI+Integration+Specialist;Building+Modern+Web+Applications;Building+AI-Powered+Solutions;Enterprise+ERP+%26+Odoo+Development" alt="Software Developer and AI Integration" />
 
 <!-- DIVIDER -->
 
@@ -77,7 +77,7 @@
 ```typescript
 const yohannes = {
   name: "Yohannes Wegayehu Demise",
-  title: "Full-Stack Developer & AI Integration Specialist",
+  title: "Full-Stack Developer & AI Integration",
   experience: "3+ years in software development",
   location: ["Addis Ababa, Ethiopia", "Debre Berhan, Ethiopia"],
   education: "Computer Science @ Debre Berhan University",
