@@ -227,11 +227,7 @@ flowchart TD
 
 <div align="center">
 
-<img
-src="https://activity-graph-pi.vercel.app"
-width="100%"
-alt="Yohannes Wegayehu GitHub Contribution Graph"
-/>
+<img src="https://activity-graph-pi.vercel.app/graph?username=yohannes-wegayehu&theme=react-dark" width="100%" alt="Yohannes Wegayehu GitHub Contribution Graph" />
 
 </div>
 
