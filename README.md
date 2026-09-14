@@ -228,7 +228,7 @@ flowchart TD
 <div align="center">
 
 <img
-src="https://github-readme-activity-graph.vercel.app/graph?username=yohannes-wegayehu&bg_color=0d1117&color=10b981&line=10b981&point=ffffff&area=true&area_color=10b981&hide_border=true&radius=12"
+src="https://activity-graph-pi.vercel.app"
 width="100%"
 alt="Yohannes Wegayehu GitHub Contribution Graph"
 />
