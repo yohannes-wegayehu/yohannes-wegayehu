@@ -103,25 +103,9 @@ const yohannes = {
 
 </div>
 
-<div align="center">
-
-```mermaid
-graph TD
-    A[Software Engineering] --> D[Software Developer]
-    B[AI Integration] --> D
-    C[ERP / Odoo] --> D
-    D --> E[Building Modern Web Applications & AI Solutions]
-
-    style A fill:#111827,stroke:#10b981,color:#ffffff
-    style B fill:#111827,stroke:#8b5cf6,color:#ffffff
-    style C fill:#111827,stroke:#f59e0b,color:#ffffff
-    style D fill:#064e3b,stroke:#10b981,color:#ffffff
-    style E fill:#312e81,stroke:#8b5cf6,color:#ffffff
-```
-
-</div>
-
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=header&text=Professional%20Positioning&fontSize=28" alt="Professional Positioning" width="100%" />
+</p>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- TECHNOLOGY STACK -->
